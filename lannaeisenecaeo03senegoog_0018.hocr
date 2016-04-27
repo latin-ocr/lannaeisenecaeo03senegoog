@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaeo03senegoog_0018.png"; bbox 0 0 2378 3856; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 1223 766 1320">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 1223 766 1320">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 1223 766 1320; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 333 1227 368 1318; x_wconf 66' lang='lat' dir='ltr'><strong>h.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 394 1223 552 1320; x_wconf 79' lang='grc' dir='ltr'><strong>ΑΝΝΑΕΙ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 578 1223 766 1318; x_wconf 63' lang='lat' dir='ltr'><strong>smum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 80 1488 1019 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 80 1461 1019 1660">
+     <span class='ocr_line' id='line_1_2' title="bbox 80 1488 1019 1636; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 80 1488 1019 1636; x_wconf 68' lang='lat' dir='ltr'><strong>nlAhoflonUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 262 1820 856 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 262 1820 856 1948">
+     <span class='ocr_line' id='line_1_3' title="bbox 262 1820 856 1948; baseline 0.002 -40"><span class='ocrx_word' id='word_1_5' title='bbox 262 1939 267 1948; x_wconf 28' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 423 1824 577 1947; x_wconf 73' lang='lat' dir='ltr'><strong>mnu</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 607 1824 675 1909; x_wconf 65' lang='grc' dir='ltr'><strong>ιιι.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 803 1820 807 1827; x_wconf 87' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 854 1935 856 1938; x_wconf 6' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1194 3856">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1194 3856">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1194 3856; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1194 3856; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
